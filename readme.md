@@ -1,2 +1,3 @@
 # LearnGit #
-This is for git learning.
+This is for **git** learning.
+Git is a free software.
